@@ -1,0 +1,21 @@
+.gradle/
+.gradle-local/
+build/
+gradle-*.zip
+local.properties
+
+app/build/
+*.apk
+*.aab
+*.iml
+.idea/
+
+# Codex local artifacts and task attachments
+.codex-remote-attachments/
+AGENTS.md
+
+# Generated or unrelated local working files
+*_0.jpg
+build_*.mjs
+control_spec_text.json
+index.html
